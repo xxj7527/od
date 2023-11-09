@@ -11,7 +11,7 @@ module.exports = {
 
   // [OPTIONAL] This is the website icon to the left of the title inside the navigation bar. It should be placed under the
   // /public directory of your GitHub project (not your OneDrive folder!), and referenced here by its relative path to /public.
-  icon: '/icons/128.png',
+  icon: '/icons/gg.png',
 
   // The name of your website. Present alongside your icon.
   title: "Super's OneDrive!",
@@ -24,7 +24,7 @@ module.exports = {
   maxItems: 200,
 
   // [OPTIONAL] We use Google Fonts natively for font customisations.
-  // You can check and generate the required links and names at https://fonts.google.com.
+  // You can check and generate the required links and names at https://fonts.google.com。
   // googleFontSans - the sans serif font used in onedrive-vercel-index.
   googleFontSans: 'Inter',
   // googleFontMono - the monospace font used in onedrive-vercel-index.
@@ -34,7 +34,7 @@ module.exports = {
 
   // [OPTIONAL] The footer component of your website. You can write HTML here, but you need to escape double
   // quotes - changing " to \". You can write anything here, and if you like badges, generate some with https://shields.io
-  footer:'<a href="https://github.com/superen7527/od/edit/main/config/site.config.js" target="_blank">Super\'s OneDrive!</a>',
+  footer:'https://github.com/superen7527/od/edit/main/config/site.config.js" target="_blank">Super\'s OneDrive!',
 
   // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
   // the directories in which you have .password set. Check the documentation for details.
